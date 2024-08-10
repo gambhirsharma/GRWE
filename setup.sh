@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define your GitHub repository URL
-CONFIG_REPO="https://github.com/yourusername/configs.git"
+CONFIG_REPO="https://github.com/gambhirsharma/GRWE.git"
 
 # Clone the repository
 TEMP_DIR=$(mktemp -d)
